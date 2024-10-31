@@ -1,0 +1,2 @@
+# fluffy-egc
+EGC templates
